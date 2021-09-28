@@ -1,0 +1,4 @@
+database.db
+.vscode/
+__pycache__/
+poetry.lock
